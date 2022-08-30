@@ -1,0 +1,16 @@
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Calculo de Media\Calculo de Media\bin\Debug\net5.0\Calculo de Media.exe
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Calculo de Media\Calculo de Media\bin\Debug\net5.0\Calculo de Media.deps.json
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Calculo de Media\Calculo de Media\bin\Debug\net5.0\Calculo de Media.runtimeconfig.json
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Calculo de Media\Calculo de Media\bin\Debug\net5.0\Calculo de Media.runtimeconfig.dev.json
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Calculo de Media\Calculo de Media\bin\Debug\net5.0\Calculo de Media.dll
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Calculo de Media\Calculo de Media\bin\Debug\net5.0\Calculo de Media.pdb
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Calculo de Media\Calculo de Media\obj\Debug\net5.0\Calculo de Media.csproj.AssemblyReference.cache
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Calculo de Media\Calculo de Media\obj\Debug\net5.0\Calculo de Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Calculo de Media\Calculo de Media\obj\Debug\net5.0\Calculo de Media.AssemblyInfoInputs.cache
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Calculo de Media\Calculo de Media\obj\Debug\net5.0\Calculo de Media.AssemblyInfo.cs
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Calculo de Media\Calculo de Media\obj\Debug\net5.0\Calculo de Media.csproj.CoreCompileInputs.cache
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Calculo de Media\Calculo de Media\obj\Debug\net5.0\Calculo de Media.dll
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Calculo de Media\Calculo de Media\obj\Debug\net5.0\refint\Calculo de Media.dll
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Calculo de Media\Calculo de Media\obj\Debug\net5.0\Calculo de Media.pdb
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Calculo de Media\Calculo de Media\obj\Debug\net5.0\Calculo de Media.genruntimeconfig.cache
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Calculo de Media\Calculo de Media\obj\Debug\net5.0\ref\Calculo de Media.dll

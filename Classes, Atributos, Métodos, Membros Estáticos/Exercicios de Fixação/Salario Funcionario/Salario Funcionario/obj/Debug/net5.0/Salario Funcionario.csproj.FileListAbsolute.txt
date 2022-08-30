@@ -1,0 +1,16 @@
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Salario Funcionario\Salario Funcionario\bin\Debug\net5.0\Salario Funcionario.exe
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Salario Funcionario\Salario Funcionario\bin\Debug\net5.0\Salario Funcionario.deps.json
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Salario Funcionario\Salario Funcionario\bin\Debug\net5.0\Salario Funcionario.runtimeconfig.json
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Salario Funcionario\Salario Funcionario\bin\Debug\net5.0\Salario Funcionario.runtimeconfig.dev.json
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Salario Funcionario\Salario Funcionario\bin\Debug\net5.0\Salario Funcionario.dll
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Salario Funcionario\Salario Funcionario\bin\Debug\net5.0\Salario Funcionario.pdb
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Salario Funcionario\Salario Funcionario\obj\Debug\net5.0\Salario Funcionario.csproj.AssemblyReference.cache
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Salario Funcionario\Salario Funcionario\obj\Debug\net5.0\Salario Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Salario Funcionario\Salario Funcionario\obj\Debug\net5.0\Salario Funcionario.AssemblyInfoInputs.cache
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Salario Funcionario\Salario Funcionario\obj\Debug\net5.0\Salario Funcionario.AssemblyInfo.cs
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Salario Funcionario\Salario Funcionario\obj\Debug\net5.0\Salario Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Salario Funcionario\Salario Funcionario\obj\Debug\net5.0\Salario Funcionario.dll
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Salario Funcionario\Salario Funcionario\obj\Debug\net5.0\refint\Salario Funcionario.dll
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Salario Funcionario\Salario Funcionario\obj\Debug\net5.0\Salario Funcionario.pdb
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Salario Funcionario\Salario Funcionario\obj\Debug\net5.0\Salario Funcionario.genruntimeconfig.cache
+C:\Users\patrick.oliveira\Desktop\.NET\Exercicios de Fixação\Salario Funcionario\Salario Funcionario\obj\Debug\net5.0\ref\Salario Funcionario.dll

@@ -1,0 +1,16 @@
+C:\Users\patrick.oliveira\Desktop\Teste\.NET\EstudoCsharp\EstudoCsharp\bin\Debug\net5.0\EstudoCsharp.exe
+C:\Users\patrick.oliveira\Desktop\Teste\.NET\EstudoCsharp\EstudoCsharp\bin\Debug\net5.0\EstudoCsharp.deps.json
+C:\Users\patrick.oliveira\Desktop\Teste\.NET\EstudoCsharp\EstudoCsharp\bin\Debug\net5.0\EstudoCsharp.runtimeconfig.json
+C:\Users\patrick.oliveira\Desktop\Teste\.NET\EstudoCsharp\EstudoCsharp\bin\Debug\net5.0\EstudoCsharp.runtimeconfig.dev.json
+C:\Users\patrick.oliveira\Desktop\Teste\.NET\EstudoCsharp\EstudoCsharp\bin\Debug\net5.0\EstudoCsharp.dll
+C:\Users\patrick.oliveira\Desktop\Teste\.NET\EstudoCsharp\EstudoCsharp\bin\Debug\net5.0\EstudoCsharp.pdb
+C:\Users\patrick.oliveira\Desktop\Teste\.NET\EstudoCsharp\EstudoCsharp\obj\Debug\net5.0\EstudoCsharp.csproj.AssemblyReference.cache
+C:\Users\patrick.oliveira\Desktop\Teste\.NET\EstudoCsharp\EstudoCsharp\obj\Debug\net5.0\EstudoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.oliveira\Desktop\Teste\.NET\EstudoCsharp\EstudoCsharp\obj\Debug\net5.0\EstudoCsharp.AssemblyInfoInputs.cache
+C:\Users\patrick.oliveira\Desktop\Teste\.NET\EstudoCsharp\EstudoCsharp\obj\Debug\net5.0\EstudoCsharp.AssemblyInfo.cs
+C:\Users\patrick.oliveira\Desktop\Teste\.NET\EstudoCsharp\EstudoCsharp\obj\Debug\net5.0\EstudoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\patrick.oliveira\Desktop\Teste\.NET\EstudoCsharp\EstudoCsharp\obj\Debug\net5.0\EstudoCsharp.dll
+C:\Users\patrick.oliveira\Desktop\Teste\.NET\EstudoCsharp\EstudoCsharp\obj\Debug\net5.0\refint\EstudoCsharp.dll
+C:\Users\patrick.oliveira\Desktop\Teste\.NET\EstudoCsharp\EstudoCsharp\obj\Debug\net5.0\EstudoCsharp.pdb
+C:\Users\patrick.oliveira\Desktop\Teste\.NET\EstudoCsharp\EstudoCsharp\obj\Debug\net5.0\EstudoCsharp.genruntimeconfig.cache
+C:\Users\patrick.oliveira\Desktop\Teste\.NET\EstudoCsharp\EstudoCsharp\obj\Debug\net5.0\ref\EstudoCsharp.dll
