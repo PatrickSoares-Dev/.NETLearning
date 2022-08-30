@@ -11,6 +11,8 @@ namespace Course
 
             p.Nome = "TV 4K";
 
+            Console.WriteLine(p.Nome);
+
 
         }
     }
