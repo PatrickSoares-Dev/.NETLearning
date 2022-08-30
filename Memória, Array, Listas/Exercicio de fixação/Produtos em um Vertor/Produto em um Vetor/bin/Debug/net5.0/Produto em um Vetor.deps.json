@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Produto em um Vetor/1.0.0": {
+        "runtime": {
+          "Produto em um Vetor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Produto em um Vetor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

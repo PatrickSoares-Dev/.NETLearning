@@ -1,0 +1,16 @@
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Produtos em um Vertor\Produto em um Vetor\bin\Debug\net5.0\Produto em um Vetor.exe
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Produtos em um Vertor\Produto em um Vetor\bin\Debug\net5.0\Produto em um Vetor.deps.json
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Produtos em um Vertor\Produto em um Vetor\bin\Debug\net5.0\Produto em um Vetor.runtimeconfig.json
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Produtos em um Vertor\Produto em um Vetor\bin\Debug\net5.0\Produto em um Vetor.runtimeconfig.dev.json
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Produtos em um Vertor\Produto em um Vetor\bin\Debug\net5.0\Produto em um Vetor.dll
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Produtos em um Vertor\Produto em um Vetor\bin\Debug\net5.0\Produto em um Vetor.pdb
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Produtos em um Vertor\Produto em um Vetor\obj\Debug\net5.0\Produto em um Vetor.csproj.AssemblyReference.cache
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Produtos em um Vertor\Produto em um Vetor\obj\Debug\net5.0\Produto em um Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Produtos em um Vertor\Produto em um Vetor\obj\Debug\net5.0\Produto em um Vetor.AssemblyInfoInputs.cache
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Produtos em um Vertor\Produto em um Vetor\obj\Debug\net5.0\Produto em um Vetor.AssemblyInfo.cs
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Produtos em um Vertor\Produto em um Vetor\obj\Debug\net5.0\Produto em um Vetor.csproj.CoreCompileInputs.cache
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Produtos em um Vertor\Produto em um Vetor\obj\Debug\net5.0\Produto em um Vetor.dll
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Produtos em um Vertor\Produto em um Vetor\obj\Debug\net5.0\refint\Produto em um Vetor.dll
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Produtos em um Vertor\Produto em um Vetor\obj\Debug\net5.0\Produto em um Vetor.pdb
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Produtos em um Vertor\Produto em um Vetor\obj\Debug\net5.0\Produto em um Vetor.genruntimeconfig.cache
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Produtos em um Vertor\Produto em um Vetor\obj\Debug\net5.0\ref\Produto em um Vetor.dll
