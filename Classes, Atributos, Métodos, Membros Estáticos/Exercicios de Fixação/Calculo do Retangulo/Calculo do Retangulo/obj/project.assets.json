@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patrick.oliveira\\Desktop\\.NET\\Exercicios de Fixação\\Calculo do Retangulo\\Calculo do Retangulo\\Calculo do Retangulo.csproj",
+      "projectUniqueName": "C:\\Users\\patrick.oliveira\\source\\repos\\.NETLearning\\Classes, Atributos, Métodos, Membros Estáticos\\Exercicios de Fixação\\Calculo do Retangulo\\Calculo do Retangulo\\Calculo do Retangulo.csproj",
       "projectName": "Calculo do Retangulo",
-      "projectPath": "C:\\Users\\patrick.oliveira\\Desktop\\.NET\\Exercicios de Fixação\\Calculo do Retangulo\\Calculo do Retangulo\\Calculo do Retangulo.csproj",
+      "projectPath": "C:\\Users\\patrick.oliveira\\source\\repos\\.NETLearning\\Classes, Atributos, Métodos, Membros Estáticos\\Exercicios de Fixação\\Calculo do Retangulo\\Calculo do Retangulo\\Calculo do Retangulo.csproj",
       "packagesPath": "C:\\Users\\patrick.oliveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patrick.oliveira\\Desktop\\.NET\\Exercicios de Fixação\\Calculo do Retangulo\\Calculo do Retangulo\\obj\\",
+      "outputPath": "C:\\Users\\patrick.oliveira\\source\\repos\\.NETLearning\\Classes, Atributos, Métodos, Membros Estáticos\\Exercicios de Fixação\\Calculo do Retangulo\\Calculo do Retangulo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\patrick.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",

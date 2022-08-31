@@ -1,0 +1,16 @@
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.exe
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.json
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.dev.json
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.dll
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.dll
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Calculadora\Calculadora\obj\Debug\net5.0\refint\Calculadora.dll
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.pdb
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.genruntimeconfig.cache
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Calculadora\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll

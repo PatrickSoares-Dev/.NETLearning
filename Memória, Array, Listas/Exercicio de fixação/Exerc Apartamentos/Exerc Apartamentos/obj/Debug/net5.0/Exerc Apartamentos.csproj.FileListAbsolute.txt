@@ -1,0 +1,16 @@
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Exerc Apartamentos\Exerc Apartamentos\bin\Debug\net5.0\Exerc Apartamentos.exe
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Exerc Apartamentos\Exerc Apartamentos\bin\Debug\net5.0\Exerc Apartamentos.deps.json
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Exerc Apartamentos\Exerc Apartamentos\bin\Debug\net5.0\Exerc Apartamentos.runtimeconfig.json
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Exerc Apartamentos\Exerc Apartamentos\bin\Debug\net5.0\Exerc Apartamentos.runtimeconfig.dev.json
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Exerc Apartamentos\Exerc Apartamentos\bin\Debug\net5.0\Exerc Apartamentos.dll
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Exerc Apartamentos\Exerc Apartamentos\bin\Debug\net5.0\Exerc Apartamentos.pdb
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Exerc Apartamentos\Exerc Apartamentos\obj\Debug\net5.0\Exerc Apartamentos.csproj.AssemblyReference.cache
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Exerc Apartamentos\Exerc Apartamentos\obj\Debug\net5.0\Exerc Apartamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Exerc Apartamentos\Exerc Apartamentos\obj\Debug\net5.0\Exerc Apartamentos.AssemblyInfoInputs.cache
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Exerc Apartamentos\Exerc Apartamentos\obj\Debug\net5.0\Exerc Apartamentos.AssemblyInfo.cs
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Exerc Apartamentos\Exerc Apartamentos\obj\Debug\net5.0\Exerc Apartamentos.csproj.CoreCompileInputs.cache
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Exerc Apartamentos\Exerc Apartamentos\obj\Debug\net5.0\Exerc Apartamentos.dll
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Exerc Apartamentos\Exerc Apartamentos\obj\Debug\net5.0\refint\Exerc Apartamentos.dll
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Exerc Apartamentos\Exerc Apartamentos\obj\Debug\net5.0\Exerc Apartamentos.pdb
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Exerc Apartamentos\Exerc Apartamentos\obj\Debug\net5.0\Exerc Apartamentos.genruntimeconfig.cache
+C:\Users\patrick.oliveira\source\repos\.NETLearning\Memória, Array, Listas\Exercicio de fixação\Exerc Apartamentos\Exerc Apartamentos\obj\Debug\net5.0\ref\Exerc Apartamentos.dll
